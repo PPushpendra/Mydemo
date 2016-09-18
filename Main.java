@@ -7,5 +7,7 @@ class Main
 		System.out.println("Hi welcome to git");
 		
 		System.out.println("thanks");
+		
+		System.out.println("Hi welcome in remote");
 	}
 }
